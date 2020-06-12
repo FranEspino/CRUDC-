@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1590948672 source:c:\users\frapodeveloper\desktop\crudinc++\main.cpp
+	<windows.h>
+	<mysql.h>
+	<iostream>
+
+1583824060 c:\users\frapodeveloper\desktop\crudinc++\resource\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1583824060 c:\users\frapodeveloper\desktop\crudinc++\resource\include\mysql_com.h
+
+1583824060 c:\users\frapodeveloper\desktop\crudinc++\resource\include\mysql_time.h
+
+1583824060 c:\users\frapodeveloper\desktop\crudinc++\resource\include\mysql_version.h
+	<custom_conf.h>
+
+1583824060 c:\users\frapodeveloper\desktop\crudinc++\resource\include\typelib.h
+
+1583824060 c:\users\frapodeveloper\desktop\crudinc++\resource\include\my_list.h
+
+1583824060 c:\users\frapodeveloper\desktop\crudinc++\resource\include\my_alloc.h
+
